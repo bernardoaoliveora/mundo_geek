@@ -1,0 +1,55 @@
+font-family: "nunito-sans", sans-serif;
+font-weight: 200;
+font-style: normal;
+Nunito Sans ExtraLight Italic
+font-family: "nunito-sans", sans-serif;
+font-weight: 200;
+font-style: italic;
+Nunito Sans Light
+font-family: "nunito-sans", sans-serif;
+font-weight: 300;
+font-style: normal;
+Nunito Sans Light Italic
+font-family: "nunito-sans", sans-serif;
+font-weight: 300;
+font-style: italic;
+Nunito Sans Regular
+font-family: "nunito-sans", sans-serif;
+font-weight: 400;
+font-style: normal;
+Nunito Sans Italic
+font-family: "nunito-sans", sans-serif;
+font-weight: 400;
+font-style: italic;
+Nunito Sans SemiBold
+font-family: "nunito-sans", sans-serif;
+font-weight: 600;
+font-style: normal;
+Nunito Sans SemiBold Italic
+font-family: "nunito-sans", sans-serif;
+font-weight: 600;
+font-style: italic;
+Nunito Sans Bold
+font-family: "nunito-sans", sans-serif;
+font-weight: 700;
+font-style: normal;
+Nunito Sans Bold Italic
+font-family: "nunito-sans", sans-serif;
+font-weight: 700;
+font-style: italic;
+Nunito Sans ExtraBold
+font-family: "nunito-sans", sans-serif;
+font-weight: 800;
+font-style: normal;
+Nunito Sans ExtraBold Italic
+font-family: "nunito-sans", sans-serif;
+font-weight: 800;
+font-style: italic;
+Nunito Sans Black
+font-family: "nunito-sans", sans-serif;
+font-weight: 900;
+font-style: normal;
+Nunito Sans Black Italic
+font-family: "nunito-sans", sans-serif;
+font-weight: 900;
+font-style: italic;
