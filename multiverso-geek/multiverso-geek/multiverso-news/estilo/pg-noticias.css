@@ -1,0 +1,25 @@
+.sec-pai{
+    width: 60%;
+    margin: auto;
+    padding-top: 100px;
+
+
+    .sec-img{
+        width: 100%;
+        height: 500px;
+        margin-top: 2em;
+
+        img{
+            width: 100%;
+            height: 100%;
+        }
+    }
+    .sec-texto{
+        width: 80%;
+        margin: auto;
+        text-align: justify;
+        padding-top: 3em;
+        
+
+    }
+}
